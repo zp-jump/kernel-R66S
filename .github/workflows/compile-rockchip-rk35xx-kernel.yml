@@ -21,7 +21,7 @@ on:
           - codesnas/linux-5.10.y-rk35xx
           - codesnas/linux-6.1.y-rockchip
           - armbian/linux-rockchip@rk-6.1-rkr5.1
-          - zp-jump/linux-6.1.y-rockchip@add-r66s-dts
+          - zp-jump/linux-6.1.y-rockchip@dev/add-r66s-dts
       kernel_version:
         description: "Select kernel version"
         required: false
